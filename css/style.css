@@ -1,0 +1,15 @@
+.header {
+  width: 100%;
+}
+
+.nav-link:hover {
+  color: burlywood !important;
+}
+
+.list-group-item {
+  border: none;
+}
+
+p a {
+  text-decoration: none;
+}
